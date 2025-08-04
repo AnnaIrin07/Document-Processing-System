@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1F6GbCE/tl6l6jUDxHOBJ8Hu/us210C+oN1WARdwKaE=",
+  "Source": "DocumentProcessing.API",
+  "BasePath": "_content/DocumentProcessing.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

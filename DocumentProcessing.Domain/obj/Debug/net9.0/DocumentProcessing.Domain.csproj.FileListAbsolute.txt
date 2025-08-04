@@ -1,0 +1,11 @@
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\bin\Debug\net9.0\DocumentProcessing.Domain.deps.json
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\bin\Debug\net9.0\DocumentProcessing.Domain.dll
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\bin\Debug\net9.0\DocumentProcessing.Domain.pdb
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\obj\Debug\net9.0\DocumentProcessing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\obj\Debug\net9.0\DocumentProcessing.Domain.AssemblyInfoInputs.cache
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\obj\Debug\net9.0\DocumentProcessing.Domain.AssemblyInfo.cs
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\obj\Debug\net9.0\DocumentProcessing.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\obj\Debug\net9.0\DocumentProcessing.Domain.dll
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\obj\Debug\net9.0\refint\DocumentProcessing.Domain.dll
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\obj\Debug\net9.0\DocumentProcessing.Domain.pdb
+C:\Users\anna.anil\DPS\DocumentProcessing.Domain\obj\Debug\net9.0\ref\DocumentProcessing.Domain.dll
