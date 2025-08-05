@@ -4,7 +4,7 @@ A backend system that allows users to upload PDF documents, queues them for back
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload PDF files (max 10MB)
 - Metadata extraction (e.g., word count)
