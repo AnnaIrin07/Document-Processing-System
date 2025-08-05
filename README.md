@@ -19,7 +19,7 @@ A backend system that allows users to upload PDF documents, queues them for back
 
 - ASP.NET Core 9.0
 - Entity Framework Core 9 (Code First + SQL Server)
-- HostedService (`BackgroundService`)
+- HostedService (BackgroundService)
 - Swagger UI
 - xUnit + Moq for Unit Testing
 
